@@ -13,6 +13,7 @@ display intrest rate, times compounded, principal, intrest, and ammount in savin
 #include <iostream>
 #include <iomanip>
 // discoverd i needed cmath for pow
+// using this website to help https://stackoverflow.com/questions/845912/what-is-the-c-function-to-raise-a-number-to-a-power
 #include <cmath>
 using namespace std;
 
