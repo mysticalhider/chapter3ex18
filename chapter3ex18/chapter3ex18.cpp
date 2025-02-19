@@ -1,7 +1,7 @@
 /*
 File Name: chapter3ex18.cpp
 Programmer: Perrin D
-Date: 2023/10/03
+Date: 2025/19/2
 requirements
 - ask for ammount in savings
 - ask for interest rate
